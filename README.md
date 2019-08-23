@@ -9,7 +9,7 @@ I wanna say Thank you to "Codigo Fonte TV" for getting me excited to start progr
 
 This is the Authors of this idea:
 
-Gabriel Froes - Initial work - [Twitter](https://www.twitter.com/gabrielfroes) 
+Gabriel Froes - Initial work - [Twitter](https://www.twitter.com/gabrielfroes)                                                            
 Vanessa Weber - Initial work - [Twitter](https://www.twitter.com/nessaweberfroes)
 
 
